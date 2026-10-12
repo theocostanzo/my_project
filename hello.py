@@ -1,1 +1,2 @@
-print('hello, let\'s create a conflict')
+print('hello, conflict solved!')
+
